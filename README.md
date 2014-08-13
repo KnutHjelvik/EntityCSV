@@ -71,12 +71,12 @@ public class Player {
 As simple as this: 
 ```java
 
-        CsvClient<Player> csvClient = new CsvClient("C:\\SchoolsPlayers.csv", Player.class);
-        List<Player> players = csvClient.readEntities();
-        for(Player player:players){
-            System.out.println(player.getPlayerID);
-			System.out.println(player.getSchoolID);
-			System.out.println(player.getYearMax);
-			System.out.println(player.getYearMin);
-        }
+  CsvClient<Player> csvClient = new CsvClient("C:\\SchoolsPlayers.csv", Player.class);
+  List<Player> players = csvClient.readEntities();
+  for(Player player:players){
+    System.out.println(player.getPlayerID);
+	System.out.println(player.getSchoolID);
+	System.out.println(player.getYearMax);
+	System.out.println(player.getYearMin);
+  }
 ```
