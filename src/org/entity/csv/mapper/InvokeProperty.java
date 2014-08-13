@@ -6,7 +6,7 @@
 package org.entity.csv.mapper;
 
 import java.lang.reflect.Method;
-import org.enity.csv.cell.Cell;
+import org.entity.csv.cell.Cell;
 import org.entity.csv.entitycore.EntityProperty;
 
 /**

@@ -5,7 +5,7 @@
  */
 
 package org.entity.csv.mapper;
-import org.enity.csv.cell.Cell;
+import org.entity.csv.cell.Cell;
 import org.entity.csv.entitycore.EntityProperties;
 import org.entity.csv.entitycore.EntityProperty;
 import org.entity.csv.row.HeaderMapping;

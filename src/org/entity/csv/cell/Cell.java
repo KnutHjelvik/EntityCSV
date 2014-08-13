@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.enity.csv.cell;
+package org.entity.csv.cell;
 
 /**
  *

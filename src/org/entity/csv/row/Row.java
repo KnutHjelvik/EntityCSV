@@ -6,7 +6,7 @@
 package org.entity.csv.row;
 
 import java.util.List;
-import org.enity.csv.cell.Cell;
+import org.entity.csv.cell.Cell;
 
 /**
  *
