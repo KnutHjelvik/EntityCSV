@@ -26,7 +26,7 @@ The CSV-File of school players:
 ```
 
 <a name="_entity"></a>
-[Entity Bean]
+
 
 
 __Entity bean__ 
