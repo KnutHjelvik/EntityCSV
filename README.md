@@ -8,12 +8,12 @@ Example usage
 =============
 
 The CSV-File of school players:
-
+```csv
 "playerID","schoolID","yearMin","yearMax"
 "aardsda01","pennst","2001","2001"
 "aardsda01","rice","2002","2003"
 "abbeybe01","vermont","1888","1892"
-
+```
 
 
 The entity file
