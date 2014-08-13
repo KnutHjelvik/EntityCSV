@@ -14,7 +14,7 @@ Example usage
 [Reading the entities](#_reading) 
 
 <a name="_csvFile"></a>
-[The Csv File]
+__The Csv File__ 
 
 
 The CSV-File of school players:
@@ -29,7 +29,7 @@ The CSV-File of school players:
 [Entity Bean]
 
 
-The entity file
+__Entity bean__ 
 
 ```java
 
@@ -81,7 +81,7 @@ public class Player {
 ```
 
 <a name="_reading"></a>
-[Reading the entities]
+__Reading entities__ 
 
 
 As simple as this: 
