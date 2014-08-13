@@ -1,13 +1,13 @@
 EntityCSV
 =========
 
-Flexible, light weight and simpel CSV mapper based on the Java programming language.
+Flexible, lightweight, simple and generic CSV mapper based on the Java programming language.
 
 
 Example usage 
 =============
   
-[The Csv File](#_csvFile) 
+[Csv File](#_csvFile) 
 
 [Entity Bean](#_entity) 
 
@@ -17,7 +17,8 @@ Example usage
 __The Csv File__ 
 
 
-The CSV-File of school players:
+A CSV-File of school players:
+
 ```csv
 "playerID","schoolID","yearMin","yearMax"
 "aardsda01","pennst","2001","2001"
