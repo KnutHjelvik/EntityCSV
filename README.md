@@ -6,6 +6,16 @@ Flexible, light weight and simpel CSV mapper based on the Java programming langu
 
 Example usage 
 =============
+  
+[The Csv File](#_csvFile) 
+
+[Entity Bean](#_entity) 
+
+[Reading the entities](#_reading) 
+
+<a name="_csvFile"></a>
+[The Csv File]
+
 
 The CSV-File of school players:
 ```csv
@@ -14,6 +24,9 @@ The CSV-File of school players:
 "aardsda01","rice","2002","2003"
 "abbeybe01","vermont","1888","1892"
 ```
+
+<a name="_entity"></a>
+[Entity Bean]
 
 
 The entity file
@@ -66,6 +79,9 @@ public class Player {
         this.yearMax = yearMax;
     }
 ```
+
+<a name="_reading"></a>
+[Reading the entities]
 
 
 As simple as this: 
